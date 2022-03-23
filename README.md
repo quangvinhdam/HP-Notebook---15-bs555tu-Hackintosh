@@ -27,6 +27,9 @@
 # Not working:
 - Wifi, Bluetooth, Airdrop, Handoff.
 
+# Replace
+- Wifi Card: Intel® Dual Band Wireless-AC 8265
+
 
 # Credits
 

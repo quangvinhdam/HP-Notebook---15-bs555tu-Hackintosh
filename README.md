@@ -24,6 +24,9 @@
 | Audio features        | Dual speakers                                                                                         |
 ## Source: https://support.hp.com/vn-en/document/c05638277
 
+# Not working:
+- Wifi, Bluetooth, Airdrop, Handoff.
+
 
 # Credits
 

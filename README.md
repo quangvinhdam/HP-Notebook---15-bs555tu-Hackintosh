@@ -22,7 +22,7 @@
 | Battery type          | 4-cell, 41 Wh Li-ion                                                                                  |
 | Webcam                | HP TrueVision HD Camera with integrated digital microphone                                            |
 | Audio features        | Dual speakers                                                                                         |
-#### Source: https://support.hp.com/vn-en/document/c05638277
+### Source: https://support.hp.com/vn-en/document/c05638277
 
 # Not working:
 - Wifi, Bluetooth, Airdrop, Handoff.

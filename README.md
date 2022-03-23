@@ -31,5 +31,5 @@
 - [Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
 - [corpnewt](https://github.com/corpnewt/) For offline installer.
 - [Dortania](https://dortania.github.io/OpenCore-Install-Guide) For great and detailed guides.
-- [VNOHackintosh](https://facebook.com/VNOHackintosh) Support group for installation and post installatio'
+- [VNOHackintosh](https://facebook.com/VNOHackintosh) Support group for installation and post installation
 - [Van Hung Nguyen](https://www.facebook.com/vanhung4499) Support patch SSDT-RTC0.aml

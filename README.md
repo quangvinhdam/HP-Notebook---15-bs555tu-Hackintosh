@@ -25,7 +25,7 @@
 ## Source: https://support.hp.com/vn-en/document/c05638277
 
 
-## Credits
+# Credits
 
 - [Apple](https://apple.com) for macOS.
 - [Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
